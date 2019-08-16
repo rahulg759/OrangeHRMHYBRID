@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33494" started-at="2019-08-13T05:32:18Z" finished-at="2019-08-13T05:32:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33494" started-at="2019-08-13T05:32:18Z" finished-at="2019-08-13T05:32:51Z">
+      <class name="com.Test.LoginTest">
+        <test-method status="PASS" signature="verifyLoginFunctionalities()[pri:0, instance:com.Test.LoginTest@14bf9759]" name="verifyLoginFunctionalities" duration-ms="33407" started-at="2019-08-13T05:32:18Z" finished-at="2019-08-13T05:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionalities -->
+      </class> <!-- com.Test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
